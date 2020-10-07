@@ -1,5 +1,5 @@
 // without errors handling, since it is redundant, thanks to combination times iteration
-const str = 'abcdefghkl';
+const str = process.argv[2];
 const maxAmountOfDot = str.length - 1; // total places where dot can be
 const res = [str, str.split('').join('.')];
 const factorial = (num) => {
