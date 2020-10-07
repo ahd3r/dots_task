@@ -6,4 +6,4 @@ Example:
 
 input - abcd
 
-output - ['a.bcd','ab.cd','abc.d','a.b.cd', 'a.bc.d', 'ab.c.d', 'a.b.c.d']
+output - ['a.bcd', 'ab.cd', 'abc.d', 'a.b.cd', 'a.bc.d', 'ab.c.d', 'a.b.c.d']
